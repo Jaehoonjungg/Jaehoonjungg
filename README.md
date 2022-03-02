@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaehoonjungg and I am a Software Engineer
-- 👀 I’m interested in learning Three.js, and solidifying knowledges I have already learned
+- 👀 
 - 🌱 Current technologies that I am comfortable with are Javascript, React.js, Express, Node.js, Sequelize, PostgreSql, HTML and CSS
 - 📫 How to reach me:
 jaehoon.jungg@gmail.com
